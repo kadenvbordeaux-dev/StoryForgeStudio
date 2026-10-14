@@ -51,9 +51,14 @@ and your stories and footage never leave your computer.
 - **Story from links.** Provide YouTube videos or web articles as reference. StoryForge Studio reads the
   captions (or transcribes the audio at 2× speed) and writes an original story in a similar style.
 
-- **Reddit stories.** Paste a Reddit post and get a ready-to-post video: the title on a story card, the
-  story read aloud by the voice you choose, word-synced subtitles in one of four styles, and free-to-use
-  Minecraft parkour gameplay in the background (9:16 or 16:9).
+- **Reddit stories.** Paste a Reddit post, or just its link, and get a ready-to-post video: the title on a
+  story card, the story read aloud by the voice you choose, word-synced subtitles in one of four styles, and
+  free-to-use Minecraft parkour gameplay in the background (9:16 or 16:9).
+  - **Parts for Shorts.** Long stories are split into Part 1, Part 2… under 60 seconds (or 3 minutes), each
+    ending with "Follow for Part 2".
+  - **Top comments.** From a link, the post's top comments can be read at the end (ideal for AITA verdicts).
+  - **Batch mode.** Paste several links (one per line) or several posts, click once, and get every video.
+  - **Brand kit.** Your logo, highlight colour, intro and outro on every video.
 
 <p align="center">
   <img src="media/reddit-story.jpg" alt="A Reddit Story video made by StoryForge Studio" width="80%">
@@ -82,9 +87,11 @@ and your stories and footage never leave your computer.
 
 ### Publishing
 - **Titles and thumbnails.** Five title options, a description, search tags and a 1280×720 thumbnail.
-- **YouTube-ready export.** The video, thumbnail and copy-ready metadata (including music credits) are
-  prepared in one folder, and YouTube Studio opens for upload.
+- **One-click YouTube upload.** Upload straight from the app with title, description, tags, thumbnail and
+  visibility, or schedule the video to go public at a set time. Connects with your own Google key (a
+  one-time, 10-minute setup the app walks you through).
 - **Branding.** An optional StoryForge Studio watermark can be turned off in Render Settings.
+- **Done notifications.** A Windows notification when a long render, film or upload finishes.
 
 <p align="center">
   <img src="media/editor.jpg" alt="The timeline editor" width="100%">
@@ -124,12 +131,18 @@ flowchart LR
 ## Installation
 
 1. Download **[StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)**.
-2. Run it. The installer selects the drive with the most free space, installs the required components
-   (Python, FFmpeg, the AI runtime, models and voices) and creates a **StoryForge Studio** desktop shortcut.
-3. Launch StoryForge Studio from the shortcut and create your first project.
+2. Run it and choose an edition. The installer recommends one for your PC:
 
-The first installation downloads roughly 75 GB of AI models and can take an hour or more, depending on your
-connection. If it is interrupted, run the installer again and it resumes where it stopped.
+   | Edition | What you get | Needs |
+   |---|---|---|
+   | **Full** | Everything: AI films, manhwa recaps, the AI editor, Reddit stories | NVIDIA card with 10 GB, ~75 GB |
+   | **Lite** | The video editor and Reddit stories | Any Windows 10/11 PC, ~3 GB (+2.8 GB parkour background on first Reddit video) |
+
+   You can add the full AI studio to a Lite install later (Help › Install the Full AI Studio).
+3. The installer picks the drive with the most free space, installs everything it needs and creates a
+   **StoryForge Studio** desktop shortcut. Launch it from there and create your first project.
+
+If the installation is interrupted, run the installer again and it resumes where it stopped.
 
 ### Updating
 
@@ -145,13 +158,13 @@ anything is downloaded.
 
 ## System requirements
 
-| Component | Minimum | Recommended |
-|---|---|---|
-| Operating system | Windows 10 64-bit | Windows 11 64-bit |
-| Graphics | NVIDIA GeForce RTX, 10 GB VRAM | RTX 3080 / RTX 4070 or higher |
-| Memory | 32 GB RAM | 64 GB RAM |
-| Storage | 100 GB free | 150 GB free on an SSD |
-| Internet | Required for installation and updates | Broadband |
+| Component | Lite | Full (minimum) | Full (recommended) |
+|---|---|---|---|
+| Operating system | Windows 10/11 64-bit | Windows 10 64-bit | Windows 11 64-bit |
+| Graphics | Any | NVIDIA GeForce RTX, 10 GB VRAM | RTX 3080 / RTX 4070 or higher |
+| Memory | 8 GB RAM | 32 GB RAM | 64 GB RAM |
+| Storage | 10 GB free | 100 GB free | 150 GB free on an SSD |
+| Internet | Installation, updates, Reddit links | Installation and updates | Broadband |
 
 ## FAQ
 
@@ -228,8 +241,9 @@ under its own license.
 
 ## Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/issues/new).
-Please include your Windows version, GPU model and, if possible, the log file at `app\logs\app.log`.
+Found a bug or have a feature request? In the app, choose **Help › Send Problem Report**: it saves the logs and
+your PC details (with your Windows user name hidden) as a zip on your desktop and opens a
+[new issue](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/issues/new) to attach it to.
 
 ---
 
