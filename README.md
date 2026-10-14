@@ -51,6 +51,10 @@ and your stories and footage never leave your computer.
 - **Story from links.** Provide YouTube videos or web articles as reference. StoryForge Studio reads the
   captions (or transcribes the audio at 2× speed) and writes an original story in a similar style.
 
+- **Reddit stories.** Paste a Reddit post and get a ready-to-post video: the title on a story card, the
+  story read aloud by the voice you choose, word-synced subtitles in one of four styles, and free-to-use
+  Minecraft parkour gameplay in the background (9:16 or 16:9).
+
 ### Visuals
 - **Manhwa recap format.** Full comic pages with slanted panels, speech bubbles, caption boxes and sound
   effects, presented with a scrolling-page camera and smooth transitions.
@@ -214,6 +218,7 @@ under its own license.
 | [FFmpeg](https://ffmpeg.org) | Media processing | LGPL / GPL |
 | [Kenney](https://kenney.nl) | Sound effects | CC0 |
 | [Kevin MacLeod](https://incompetech.com) | Music | CC BY 4.0 |
+| [Orbital – No Copyright Gameplay](https://www.youtube.com/channel/UCTGjE7hWuBRNqU-OnVSzq3Q) | Minecraft parkour background (Reddit stories) | CC BY |
 | [Google Fonts](https://fonts.google.com) | Typefaces | SIL OFL / Apache-2.0 |
 
 ## Support
