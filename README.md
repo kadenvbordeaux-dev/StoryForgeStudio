@@ -159,7 +159,7 @@ their official distribution sources.
 <summary><b>My antivirus removed StoryForgeStudio.exe from the installation folder.</b></summary>
 <br>
 StoryForge Studio keeps working: setup detects the removal and points the <b>StoryForge Studio</b> desktop
-shortcut at the application directly. To restore the launcher, open your antivirus quarantine (for Bitdefender:
+shortcut at the application directly. You can also start it with <code>launch.bat</code> in the installation folder. To restore the launcher, open your antivirus quarantine (for Bitdefender:
 <i>Protection → Antivirus → Quarantine</i>), restore <code>StoryForgeStudio.exe</code>, and add the installation
 folder as an exception. Alternatively, download the latest
 <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe">StoryForgeStudio.exe</a>
