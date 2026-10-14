@@ -127,6 +127,13 @@ connection. If it is interrupted, run the installer again and it resumes where i
 StoryForge Studio checks for new releases at startup. When an update is available, select **Update now** in
 the status bar. Projects, settings and downloaded models are preserved.
 
+**Upgrading from Video Editor AI.** Download the latest
+[StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)
+and run it. It locates your existing installation on any drive or user folder, updates it in place and
+renames the folder to `StoryForgeStudio`. Your projects and AI models are kept, and only new components are
+downloaded. If the installation cannot be located automatically, you are asked to select its folder before
+anything is downloaded.
+
 ## System requirements
 
 | Component | Minimum | Recommended |
