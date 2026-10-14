@@ -197,9 +197,8 @@ so no NVIDIA card is needed.
 - **9:16 or 16:9.** Vertical for Shorts, TikTok and Reels, or widescreen for YouTube.
 
 #### Your brand
-- **Brand kit.** Your logo at the top of every video and on the story card, your highlight colour for the
-  subtitles, and your own intro and outro clips.
-- **StoryForge Studio logo** by default when you have not set your own.
+- **Brand kit.** Your highlight colour for the subtitles, and your own intro and outro clips on every video.
+- **StoryForge Studio logo** at the top of every video and on the story card.
 
 #### Editing
 - **Full timeline editor.** Multi-track video and audio, trimming, effects, titles, transitions, speed and
@@ -265,7 +264,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 |---|:---:|:---:|
 | Reddit story videos (links, comments, parts, batch) | ✓ | ✓ |
 | Four word-synced subtitle styles, 25 voices | ✓ | ✓ |
-| Brand kit (logo, colour, intro, outro) | ✓ | ✓ |
+| Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
 | Timeline editor, music, sound effects, fonts | ✓ | ✓ |
 | One-click YouTube upload with scheduling | ✓ | ✓ |
 | Done notifications and problem reports | ✓ | ✓ |
