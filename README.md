@@ -10,16 +10,17 @@
   <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest"><img src="https://img.shields.io/github/v/release/kadenvbordeaux-dev/StoryForgeStudio?label=release&color=c2185b" alt="Latest release"></a>
   <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases"><img src="https://img.shields.io/github/downloads/kadenvbordeaux-dev/StoryForgeStudio/total?label=downloads&color=555" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/badge/GPU-NVIDIA%20RTX%20(10%20GB%2B)-76b900" alt="NVIDIA RTX GPU">
+  <img src="https://img.shields.io/badge/Full-NVIDIA%20RTX%2010%20GB%2B-76b900" alt="Full edition: NVIDIA RTX 10 GB+">
+  <img src="https://img.shields.io/badge/Lite-any%20PC-ff8a1f" alt="Lite edition: any PC">
   <img src="https://img.shields.io/badge/processing-100%25%20on--device-333" alt="On-device processing">
 </p>
 
 <p align="center">
   <a href="#overview">Overview</a> ·
-  <a href="#features">Features</a> ·
-  <a href="#how-it-works">How it works</a> ·
+  <a href="#storyforge-studio-full-edition">Full edition</a> ·
+  <a href="#storyforge-studio-lite">Lite edition</a> ·
+  <a href="#compare-the-editions">Compare</a> ·
   <a href="#installation">Installation</a> ·
-  <a href="#system-requirements">Requirements</a> ·
   <a href="#faq">FAQ</a> ·
   <a href="#support">Support</a>
 </p>
@@ -28,75 +29,84 @@
 
 ## Overview
 
-**StoryForge Studio** is a desktop application for Windows that turns a written story into a finished,
-publish-ready video. It writes the narration, illustrates every scene in a consistent style, records the
-voice-over, adds word-synced subtitles and licensed music, and assembles the result on a professional
-timeline editor.
+**StoryForge Studio** is a desktop application for Windows that turns stories into finished, publish-ready
+videos. Everything runs on your own computer: no subscriptions, no usage credits, no cloud uploads, and your
+stories and footage never leave your PC.
 
-All generation runs locally on your NVIDIA GPU. There are no subscriptions, usage credits or cloud uploads,
-and your stories and footage never leave your computer.
+It comes in two editions. You choose one when you install it, and the installer recommends the right one for
+your PC.
+
+<table>
+  <tr>
+    <th width="50%">StoryForge Studio (Full)</th>
+    <th width="50%">StoryForge Studio Lite</th>
+  </tr>
+  <tr>
+    <td>The complete AI studio: AI-written and AI-illustrated films, manhwa recaps, an AI video editor,
+        Reddit stories and a full timeline editor.</td>
+    <td>Reddit story videos and the timeline editor, on almost any Windows PC. No graphics card required.</td>
+  </tr>
+  <tr>
+    <td><b>Needs:</b> NVIDIA RTX card with 10 GB VRAM, about 75 GB of disk space</td>
+    <td><b>Needs:</b> any Windows 10/11 PC, about 3 GB (+2.8 GB gameplay background)</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#storyforge-studio-full-edition">Read about Full ↓</a></td>
+    <td align="center"><a href="#storyforge-studio-lite">Read about Lite ↓</a></td>
+  </tr>
+</table>
+
+---
+
+## StoryForge Studio (Full edition)
+
+**For creators with a gaming PC** (NVIDIA RTX, 10 GB or more) who want the computer to do the heavy lifting:
+write the story, draw every scene, voice it, and cut it together. It includes everything in Lite as well.
 
 <p align="center">
   <img src="media/ai-studio.jpg" alt="AI Studio: story, screenplay, shot list and panel editor" width="100%">
   <br><sub><b>AI Studio.</b> The story on the left, the generated screenplay and shot list on the right, and any panel can be redrawn or rewritten individually.</sub>
 </p>
 
-## Features
+### Features
 
-### Story and writing
+#### Story and writing
 - **Story to video.** Paste a story or script and the screenplay follows it faithfully: the same characters,
   events and dialogue.
 - **Story generator.** Choose from 20 genres and receive a complete, structured story sized to the length of
   your video.
 - **Story from links.** Provide YouTube videos or web articles as reference. StoryForge Studio reads the
   captions (or transcribes the audio at 2× speed) and writes an original story in a similar style.
+- **Auto-accept.** Click *Write Screenplay* once and it writes, illustrates, voices and assembles the whole
+  film by itself. It pauses only if something needs your attention.
 
-- **Reddit stories.** Paste a Reddit post, or just its link, and get a ready-to-post video: the title on a
-  story card, the story read aloud by the voice you choose, word-synced subtitles in one of four styles, and
-  free-to-use Minecraft parkour gameplay in the background (9:16 or 16:9).
-  - **Parts for Shorts.** Long stories are split into Part 1, Part 2… under 60 seconds (or 3 minutes), each
-    ending with "Follow for Part 2".
-  - **Top comments.** From a link, the post's top comments can be read at the end (ideal for AITA verdicts).
-  - **Batch mode.** Paste several links (one per line) or several posts, click once, and get every video.
-  - **Brand kit.** Your logo, highlight colour, intro and outro on every video.
-
-<p align="center">
-  <img src="media/reddit-story.jpg" alt="A Reddit Story video made by StoryForge Studio" width="80%">
-  <br><sub><b>Reddit Story.</b> Title card, word-highlighted subtitles and Minecraft parkour gameplay (CC BY), generated from a pasted post.</sub>
-</p>
-
-### Visuals
+#### Visuals
 - **Manhwa recap format.** Full comic pages with slanted panels, speech bubbles, caption boxes and sound
   effects, presented with a scrolling-page camera and smooth transitions.
+- **Anime films.** Illustrated keyframes animated into video clips with local video models (Wan 2.2, LTX-Video).
 - **Consistent characters.** Each character receives a reference portrait, so the same face appears in every
   panel.
 - **Panel-level control.** Redraw a single picture or rewrite a single line without regenerating the film.
+- **Photo → Video and Text → Clip.** Animate a photo or generate a single shot from a description.
 
-### Audio
-- **Natural narration.** Expressive text-to-speech voices with tight timing and no unnatural pauses.
+#### Audio
+- **Natural narration.** Expressive text-to-speech voices (25 to choose from) with tight timing and no
+  unnatural pauses.
 - **Word-synced subtitles.** Captions are aligned to every spoken word.
 - **Broadcast-ready loudness.** Exports are normalized to the −14 LUFS streaming standard.
 
-### Editing
-- **Full timeline editor.** Multi-track video and audio, trimming, effects, titles, transitions, speed and
-  volume controls, and a Resolve-style page layout.
+#### Editing
 - **AI editor.** Describe an edit in plain language ("make a 45-second Short with captions") and it is
-  applied as a single undoable step.
-- **Smart tools.** Beat-synced cuts, subject-tracking reframe from 16:9 to 9:16, color matching and automatic
-  music ducking.
+  applied as a single undoable step. It watches and listens to your footage to understand it.
+- **Smart tools.** Beat-synced cuts, subject-tracking reframe from 16:9 to 9:16, color matching and
+  automatic music ducking.
+- **Full timeline editor.** Everything listed under Lite below.
 
-### Publishing
-- **Titles and thumbnails.** Five title options, a description, search tags and a 1280×720 thumbnail.
-- **One-click YouTube upload.** Upload straight from the app with title, description, tags, thumbnail and
-  visibility, or schedule the video to go public at a set time. Connects with your own Google key (a
-  one-time, 10-minute setup the app walks you through).
-- **Branding.** An optional StoryForge Studio watermark can be turned off in Render Settings.
-- **Done notifications.** A Windows notification when a long render, film or upload finishes.
-
-<p align="center">
-  <img src="media/editor.jpg" alt="The timeline editor" width="100%">
-  <br><sub><b>Edit page.</b> The assembled film on a multi-track timeline, with the AI Editor on the right.</sub>
-</p>
+#### Publishing
+- **Titles and thumbnails.** Five title options, a description, search tags and a 1280×720 thumbnail drawn in
+  your film's style.
+- **One-click YouTube upload** with scheduling, **done notifications**, **brand kit** and **problem
+  reports**: the same as in Lite.
 
 <table>
   <tr>
@@ -109,7 +119,7 @@ and your stories and footage never leave your computer.
   </tr>
 </table>
 
-## How it works
+### How a film is made
 
 ```mermaid
 flowchart LR
@@ -128,26 +138,162 @@ flowchart LR
 4. **Assemble.** Pages, voice, music and captions are placed on the timeline, where everything stays editable.
 5. **Publish.** Export in YouTube or Shorts format with a generated thumbnail, titles and description.
 
+### Full edition requirements
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| Operating system | Windows 10 64-bit | Windows 11 64-bit |
+| Graphics | NVIDIA GeForce RTX, 10 GB VRAM | RTX 3080 / RTX 4070 or higher |
+| Memory | 32 GB RAM | 64 GB RAM |
+| Storage | 100 GB free | 150 GB free on an SSD |
+| Internet | For installation and updates | Broadband |
+
+### What the Full edition installs
+
+| Component | Size | Used for |
+|---|---|---|
+| Python, FFmpeg and the app | ~2 GB | The editor, rendering and export |
+| Ollama + AI writing and editing models (Mistral Small 24B, Gemma 3 12B, Qwen 2.5 7B, Qwen 2.5-VL 7B) | ~33 GB | Screenplays, narration, the AI editor, watching footage |
+| AI video engine (ComfyUI + PyTorch CUDA) | ~4 GB | Drawing pictures and making video clips |
+| AI image and video models (Animagine XL, Wan 2.2, LTX-Video, IP-Adapter) | ~35 GB | Illustrations, animation, consistent characters |
+| Voices (Kokoro, 25 voices) and speech recognition (Whisper) | ~1 GB | Narration, word-synced subtitles, transcription |
+| Music, sound effects, fonts and the asset library | ~0.5 GB | Editing |
+| Minecraft parkour background | 2.8 GB | Reddit stories (downloaded on first use) |
+
+---
+
+## StoryForge Studio Lite
+
+**For everyone else.** Lite runs on almost any Windows PC, including laptops without a gaming graphics card. It
+makes Reddit story videos in minutes and includes the full timeline editor. The voices run on your processor,
+so no NVIDIA card is needed.
+
+<p align="center">
+  <img src="media/reddit-story.jpg" alt="A Reddit Story video made by StoryForge Studio" width="80%">
+  <br><sub><b>Reddit Story.</b> Title card, word-highlighted subtitles and Minecraft parkour gameplay (CC BY), generated from a pasted post.</sub>
+</p>
+
+### Features
+
+#### Reddit stories
+- **Paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
+  (votes, usernames, "Share", "Reply") is removed automatically.
+- **Top comments.** From a link, the post's top one to three comments can be read at the end. This works well
+  for AITA verdicts.
+- **Your choice of voice.** 25 natural narrator voices. Reddit shorthand is read properly: "AITA" becomes
+  "Am I the A-hole" and "(24F)" becomes "24 female".
+- **Four subtitle styles,** all timed to each spoken word:
+  - **Bold pop:** one big word at a time.
+  - **Highlighted word:** three words, the current one in colour.
+  - **Karaoke line:** the current word highlighted, upcoming words faded.
+  - **Classic captions:** sentences on a dark box.
+- **Story card.** The title appears on a clean card while the narrator reads it.
+- **Gameplay background.** Free-to-use Minecraft parkour (Creative Commons, credited automatically) starting
+  at a different point every time, or your own gameplay video.
+- **Parts for Shorts.** Long stories are split into Part 1, Part 2… under 60 seconds (or 3 minutes), at the
+  end of a sentence, each ending with "Follow for Part 2".
+- **Batch mode.** Paste several links (one per line) or several posts separated by `---`, click once, and get
+  every video.
+- **9:16 or 16:9.** Vertical for Shorts, TikTok and Reels, or widescreen for YouTube.
+
+#### Your brand
+- **Brand kit.** Your logo at the top of every video and on the story card, your highlight colour for the
+  subtitles, and your own intro and outro clips.
+- **StoryForge Studio logo** by default when you have not set your own.
+
+#### Editing
+- **Full timeline editor.** Multi-track video and audio, trimming, effects, titles, transitions, speed and
+  volume controls, and a Resolve-style page layout.
+- **Asset library.** Royalty-free music (Kevin MacLeod), 730 sound effects (Kenney), 106 fonts, and
+  backgrounds and overlays made on your PC.
+- **Exports** in YouTube 1080p, Shorts 9:16 and square formats, loudness-matched for streaming platforms.
+
+#### Publishing and help
+- **One-click YouTube upload.** Title, description (with the required credits), tags, thumbnail and
+  visibility, or schedule the video to go public at a set time. It connects with your own Google key, a
+  one-time, 10-minute setup that the app walks you through.
+- **Done notifications.** A Windows notification when a render, a batch of Reddit videos or an upload
+  finishes.
+- **Send Problem Report.** One click saves the logs and PC details (with your Windows user name hidden) as a
+  zip, ready to attach to a report.
+
+### How a Reddit video is made
+
+```mermaid
+flowchart LR
+    A[Reddit post<br>or link] --> B[Clean text<br>+ top comments]
+    B --> C[Narration<br>with word timings]
+    C --> D[Subtitles in<br>your style]
+    C --> E[Split into parts<br>if long]
+    D --> F[Gameplay + card<br>+ logo]
+    E --> F
+    F --> G[Video, credits<br>and upload]
+```
+
+A one-minute story takes well under a minute to make on a typical PC.
+
+### Lite edition requirements
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| Operating system | Windows 10 64-bit | Windows 11 64-bit |
+| Graphics | Any (no NVIDIA card needed) | Any |
+| Memory | 8 GB RAM | 16 GB RAM |
+| Storage | 10 GB free | 20 GB free |
+| Internet | For installation, updates and Reddit links | Broadband |
+
+### What the Lite edition installs
+
+| Component | Size | Used for |
+|---|---|---|
+| Python, FFmpeg and the app | ~2 GB | The editor, rendering and export |
+| Voice engine (Kokoro on the processor) and 25 voices | ~1.3 GB | Narration with word timings |
+| Speech recognition (Whisper) | ~0.5 GB | Captions |
+| Music, sound effects, fonts and the asset library | ~0.5 GB | Editing |
+| Minecraft parkour background | 2.8 GB | Reddit stories (downloaded on first use) |
+
+### Upgrading from Lite to Full
+
+If you later get a suitable NVIDIA card, choose **Help › Install the Full AI Studio**. StoryForge Studio closes,
+downloads the rest (about 75 GB) and opens again. Your projects and settings are kept.
+
+---
+
+## Compare the editions
+
+| | Full | Lite |
+|---|:---:|:---:|
+| Reddit story videos (links, comments, parts, batch) | ✓ | ✓ |
+| Four word-synced subtitle styles, 25 voices | ✓ | ✓ |
+| Brand kit (logo, colour, intro, outro) | ✓ | ✓ |
+| Timeline editor, music, sound effects, fonts | ✓ | ✓ |
+| One-click YouTube upload with scheduling | ✓ | ✓ |
+| Done notifications and problem reports | ✓ | ✓ |
+| Story → Video (AI-written and illustrated films) | ✓ | — |
+| Manhwa recaps with consistent characters | ✓ | — |
+| Photo → Video and Text → Clip | ✓ | — |
+| AI editor (edit by describing it) | ✓ | — |
+| AI thumbnails and titles | ✓ | — |
+| Graphics card | NVIDIA RTX, 10 GB | Any |
+| Disk space | ~75 GB | ~3 GB (+2.8 GB background) |
+
+---
+
 ## Installation
 
 1. Download **[StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)**.
-2. Run it and choose an edition. The installer recommends one for your PC:
-
-   | Edition | What you get | Needs |
-   |---|---|---|
-   | **Full** | Everything: AI films, manhwa recaps, the AI editor, Reddit stories | NVIDIA card with 10 GB, ~75 GB |
-   | **Lite** | The video editor and Reddit stories | Any Windows 10/11 PC, ~3 GB (+2.8 GB parkour background on first Reddit video) |
-
-   You can add the full AI studio to a Lite install later (Help › Install the Full AI Studio).
-3. The installer picks the drive with the most free space, installs everything it needs and creates a
+2. Run it. The installer checks your graphics card, recommends **Full** or **Lite**, and asks which one
+   you want.
+3. It picks the drive with the most free space, installs everything for that edition and creates a
    **StoryForge Studio** desktop shortcut. Launch it from there and create your first project.
 
-If the installation is interrupted, run the installer again and it resumes where it stopped.
+If the installation is interrupted, run the installer again and it resumes where it stopped. The installer is
+the same file for both editions.
 
 ### Updating
 
 StoryForge Studio checks for new releases at startup. When an update is available, select **Update now** in
-the status bar. Projects, settings and downloaded models are preserved.
+the status bar. Projects, settings and downloaded models are preserved, and your edition stays the same.
 
 **Upgrading from Video Editor AI.** Download the latest
 [StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)
@@ -156,17 +302,15 @@ renames the folder to `StoryForgeStudio`. Your projects and AI models are kept, 
 downloaded. If the installation cannot be located automatically, you are asked to select its folder before
 anything is downloaded.
 
-## System requirements
-
-| Component | Lite | Full (minimum) | Full (recommended) |
-|---|---|---|---|
-| Operating system | Windows 10/11 64-bit | Windows 10 64-bit | Windows 11 64-bit |
-| Graphics | Any | NVIDIA GeForce RTX, 10 GB VRAM | RTX 3080 / RTX 4070 or higher |
-| Memory | 8 GB RAM | 32 GB RAM | 64 GB RAM |
-| Storage | 10 GB free | 100 GB free | 150 GB free on an SSD |
-| Internet | Installation, updates, Reddit links | Installation and updates | Broadband |
-
 ## FAQ
+
+<details>
+<summary><b>Which edition should I choose?</b></summary>
+<br>
+If you have an NVIDIA RTX graphics card with 10 GB or more and want AI-made films, recaps or the AI editor,
+choose <b>Full</b>. For Reddit story videos and editing on any other PC, choose <b>Lite</b>. The installer
+recommends one for your PC, and you can upgrade Lite to Full later.
+</details>
 
 <details>
 <summary><b>Windows SmartScreen or my antivirus shows a warning when I run the installer.</b></summary>
@@ -181,46 +325,56 @@ their official distribution sources.
 <summary><b>My antivirus removed StoryForgeStudio.exe from the installation folder.</b></summary>
 <br>
 StoryForge Studio keeps working: setup detects the removal and points the <b>StoryForge Studio</b> desktop
-shortcut at the application directly. You can also start it with <code>launch.bat</code> in the installation folder. To restore the launcher, open your antivirus quarantine (for Bitdefender:
-<i>Protection → Antivirus → Quarantine</i>), restore <code>StoryForgeStudio.exe</code>, and add the installation
-folder as an exception. Alternatively, download the latest
+shortcut at the application directly. You can also start it with <code>launch.bat</code> in the installation
+folder. To restore the launcher, open your antivirus quarantine (for Bitdefender:
+<i>Protection → Antivirus → Quarantine</i>), restore <code>StoryForgeStudio.exe</code>, and add the
+installation folder as an exception. Alternatively, download the latest
 <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe">StoryForgeStudio.exe</a>
 and run it again.
 </details>
 
 <details>
+<summary><b>How do I connect YouTube for one-click uploads?</b></summary>
+<br>
+Open <b>File › Upload to YouTube</b> and click <b>How do I set this up?</b>. Google requires a free key that the
+channel owner creates once in the Google Cloud console (about 10 minutes); the app shows each step. After that,
+uploads and scheduling are one click. Each key allows about six uploads a day, which is YouTube's free limit.
+</details>
+
+<details>
 <summary><b>Does StoryForge Studio work offline?</b></summary>
 <br>
-Yes. An internet connection is needed only for installation, model downloads, update checks and the optional
-"Story from links" feature. Writing, illustration, narration and editing all run on your computer.
+Yes. An internet connection is needed only for installation, downloads, update checks, Reddit links and
+YouTube uploads. Writing, illustration, narration and editing all run on your computer.
 </details>
 
 <details>
 <summary><b>Can I monetize videos made with StoryForge Studio?</b></summary>
 <br>
-The bundled music is by Kevin MacLeod (CC BY 4.0) and requires attribution. A credits file is written next
-to every export and added to the generated YouTube description automatically. Sound effects are CC0. Review
-the licenses of the AI models listed below for any additional terms.
+The bundled music is by Kevin MacLeod (CC BY 4.0) and the Minecraft parkour background is by Orbital – No
+Copyright Gameplay (CC BY); both require attribution. A credits file is written next to every video and added
+to the YouTube description automatically. Sound effects are CC0. Review the licenses of the AI models listed
+below for any additional terms. Reddit posts belong to their authors.
 </details>
 
 <details>
 <summary><b>Where are my projects stored?</b></summary>
 <br>
 In the <code>projects</code> folder inside the installation directory (by default <code>X:\StoryForgeStudio</code>).
-Updates never modify your projects.
+Reddit videos are in each project's <code>Reddit Stories</code> folder. Updates never modify your projects.
 </details>
 
 <details>
 <summary><b>Is any of my data collected?</b></summary>
 <br>
 No. StoryForge Studio has no telemetry or accounts. The only network requests it makes are update checks to
-GitHub, model downloads during setup, and the links you choose to provide.
+GitHub, downloads during setup, the links you choose to provide, and YouTube uploads you start.
 </details>
 
 ## Third-party components
 
 StoryForge Studio downloads the following components from their official sources during setup. Each remains
-under its own license.
+under its own license. Lite uses only the components marked with •.
 
 | Component | Purpose | License |
 |---|---|---|
@@ -231,13 +385,13 @@ under its own license.
 | [LTX-Video](https://github.com/Lightricks/LTX-Video) | Video generation model | See model license |
 | [Ollama](https://ollama.com) | Local language-model runtime | MIT |
 | Mistral Small, Qwen 2.5, Gemma 3 | Writing and editing models | Apache-2.0 / Gemma Terms of Use |
-| [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M) | Text-to-speech voices | Apache-2.0 |
-| [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Speech recognition | MIT |
-| [FFmpeg](https://ffmpeg.org) | Media processing | LGPL / GPL |
-| [Kenney](https://kenney.nl) | Sound effects | CC0 |
-| [Kevin MacLeod](https://incompetech.com) | Music | CC BY 4.0 |
-| [Orbital – No Copyright Gameplay](https://www.youtube.com/channel/UCTGjE7hWuBRNqU-OnVSzq3Q) | Minecraft parkour background (Reddit stories) | CC BY |
-| [Google Fonts](https://fonts.google.com) | Typefaces | SIL OFL / Apache-2.0 |
+| • [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M) | Text-to-speech voices | Apache-2.0 |
+| • [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | Speech recognition | MIT |
+| • [FFmpeg](https://ffmpeg.org) | Media processing | LGPL / GPL |
+| • [Kenney](https://kenney.nl) | Sound effects | CC0 |
+| • [Kevin MacLeod](https://incompetech.com) | Music | CC BY 4.0 |
+| • [Orbital – No Copyright Gameplay](https://www.youtube.com/channel/UCTGjE7hWuBRNqU-OnVSzq3Q) | Minecraft parkour background (Reddit stories) | CC BY |
+| • [Google Fonts](https://fonts.google.com) | Typefaces | SIL OFL / Apache-2.0 |
 
 ## Support
 
