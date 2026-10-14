@@ -156,6 +156,17 @@ their official distribution sources.
 </details>
 
 <details>
+<summary><b>My antivirus removed StoryForgeStudio.exe from the installation folder.</b></summary>
+<br>
+StoryForge Studio keeps working: setup detects the removal and points the <b>StoryForge Studio</b> desktop
+shortcut at the application directly. To restore the launcher, open your antivirus quarantine (for Bitdefender:
+<i>Protection → Antivirus → Quarantine</i>), restore <code>StoryForgeStudio.exe</code>, and add the installation
+folder as an exception. Alternatively, download the latest
+<a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe">StoryForgeStudio.exe</a>
+and run it again.
+</details>
+
+<details>
 <summary><b>Does StoryForge Studio work offline?</b></summary>
 <br>
 Yes. An internet connection is needed only for installation, model downloads, update checks and the optional
