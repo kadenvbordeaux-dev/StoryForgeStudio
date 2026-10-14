@@ -55,6 +55,11 @@ and your stories and footage never leave your computer.
   story read aloud by the voice you choose, word-synced subtitles in one of four styles, and free-to-use
   Minecraft parkour gameplay in the background (9:16 or 16:9).
 
+<p align="center">
+  <img src="media/reddit-story.jpg" alt="A Reddit Story video made by StoryForge Studio" width="80%">
+  <br><sub><b>Reddit Story.</b> Title card, word-highlighted subtitles and Minecraft parkour gameplay (CC BY), generated from a pasted post.</sub>
+</p>
+
 ### Visuals
 - **Manhwa recap format.** Full comic pages with slanted panels, speech bubbles, caption boxes and sound
   effects, presented with a scrolling-page camera and smooth transitions.
