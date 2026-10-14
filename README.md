@@ -176,9 +176,13 @@ so no NVIDIA card is needed.
 ### Features
 
 #### Reddit stories
-- **Find stories in the app.** Browse the top posts of story subreddits (AITA, TIFU, pettyrevenge, Malicious
-  Compliance and more) by day, week, month or year, filter by length, and tick the ones you want. Stories
-  you have already made are marked, so you never repeat one.
+- **Story library.** Scan a whole story subreddit (AITA, TIFU, pettyrevenge, MaliciousCompliance and more)
+  once and keep well over a thousand stories on your PC, with their full text. They are sorted into
+  categories (Weddings, In-laws, Dating & marriage, Kids & parenting, Family, Friends, Roommates & neighbours,
+  Work & school, Money, Holidays & birthdays, Food, Pets, Health), and you can search, sort by most upvoted,
+  newest or length, and hide stories you have already made. Refresh adds new posts in about a minute.
+- **Make many in a row.** Tick as many stories as you like and click **Make ticked videos now**: StoryForge
+  Studio makes every one of them, one after another, with your chosen voice, subtitles and background.
 - **Or paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
   (votes, usernames, "Share", "Reply") is removed automatically.
 - **Top comments.** From a link, the post's top one to three comments can be read at the end. This works well
@@ -291,7 +295,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 
 | | Full | Lite |
 |---|:---:|:---:|
-| Reddit story videos (story finder, links, comments, parts, batch) | ✓ | ✓ |
+| Reddit story videos (story library with categories, links, comments, parts, batch) | ✓ | ✓ |
 | Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
 | Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
