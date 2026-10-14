@@ -169,8 +169,8 @@ makes Reddit story videos in minutes and includes the full timeline editor. The 
 so no NVIDIA card is needed.
 
 <p align="center">
-  <img src="media/reddit-story.jpg" alt="A Reddit Story video made by StoryForge Studio" width="80%">
-  <br><sub><b>Reddit Story.</b> Title card, word-highlighted subtitles and Minecraft parkour gameplay (CC BY), generated from a pasted post.</sub>
+  <img src="media/lite-app.jpg" alt="StoryForge Studio Lite: the Reddit Story tab making a batch of videos" width="100%">
+  <br><sub><b>StoryForge Studio Lite.</b> Three Reddit links pasted as a batch, split into Shorts-length parts with the top comment, while the preview shows the finished video.</sub>
 </p>
 
 ### Features
@@ -196,6 +196,16 @@ so no NVIDIA card is needed.
   every video.
 - **9:16 or 16:9.** Vertical for Shorts, TikTok and Reels, or widescreen for YouTube.
 
+<p align="center">
+  <img src="media/lite-subtitle-styles.jpg" alt="The four subtitle styles: Bold pop, Highlighted word, Karaoke line and Classic captions" width="100%">
+  <br><sub><b>Four subtitle styles,</b> each timed to the narrator's words.</sub>
+</p>
+
+<p align="center">
+  <img src="media/lite-parts.jpg" alt="A long story split into Part 1 and Part 2" width="90%">
+  <br><sub><b>Parts for Shorts.</b> A long story becomes Part 1 and Part 2, each under 60 seconds.</sub>
+</p>
+
 #### Your brand
 - **Brand kit.** Your highlight colour for the subtitles, and your own intro and outro clips on every video.
 - **StoryForge Studio logo** at the top of every video and on the story card.
@@ -216,6 +226,11 @@ so no NVIDIA card is needed.
 - **Send Problem Report.** One click saves the logs and PC details (with your Windows user name hidden) as a
   zip, ready to attach to a report.
 
+<p align="center">
+  <img src="media/lite-publish.jpg" alt="The YouTube upload window with scheduling, and the brand kit" width="100%">
+  <br><sub><b>Publishing.</b> Upload straight to YouTube (or schedule it), with the title, description, credits and tags filled in for you.</sub>
+</p>
+
 ### How a Reddit video is made
 
 ```mermaid
@@ -230,6 +245,11 @@ flowchart LR
 ```
 
 A one-minute story takes well under a minute to make on a typical PC.
+
+<p align="center">
+  <img src="media/reddit-story.jpg" alt="A finished Reddit Story video" width="80%">
+  <br><sub><b>The finished video:</b> story card, word-highlighted subtitles and Minecraft parkour gameplay (CC BY).</sub>
+</p>
 
 ### Lite edition requirements
 
