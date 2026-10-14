@@ -176,12 +176,20 @@ so no NVIDIA card is needed.
 ### Features
 
 #### Reddit stories
-- **Paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
+- **Find stories in the app.** Browse the top posts of story subreddits (AITA, TIFU, pettyrevenge, Malicious
+  Compliance and more) by day, week, month or year, filter by length, and tick the ones you want. Stories
+  you have already made are marked, so you never repeat one.
+- **Or paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
   (votes, usernames, "Share", "Reply") is removed automatically.
 - **Top comments.** From a link, the post's top one to three comments can be read at the end. This works well
   for AITA verdicts.
-- **Your choice of voice.** 25 natural narrator voices. Reddit shorthand is read properly: "AITA" becomes
-  "Am I the A-hole" and "(24F)" becomes "24 female".
+- **Your choice of voice.** 25 natural narrator voices, each with a ▶ preview button. Reddit shorthand is read
+  properly: "AITA" becomes "Am I the A-hole" and "(24F)" becomes "24 female".
+- **Pronunciations.** Teach the narrator tricky names and slang ("Siobhan" → "Shiv awn"); the subtitles still
+  show the word as written.
+- **Advertiser-friendly language.** Strong swear words and slurs are bleeped (or muted) in the voice and shown
+  as `f***` in the subtitles and on the title card, so videos keep full YouTube ads. Mild words like "damn"
+  stay.
 - **Four subtitle styles,** all timed to each spoken word:
   - **Bold pop:** one big word at a time.
   - **Highlighted word:** three words, the current one in colour.
@@ -221,6 +229,7 @@ so no NVIDIA card is needed.
 - **One-click YouTube upload.** Title, description (with the required credits), tags, thumbnail and
   visibility, or schedule the video to go public at a set time. It connects with your own Google key, a
   one-time, 10-minute setup that the app walks you through.
+- **One part a day.** A story split into parts can be uploaded in one click, scheduled one part per day.
 - **Done notifications.** A Windows notification when a render, a batch of Reddit videos or an upload
   finishes.
 - **Send Problem Report.** One click saves the logs and PC details (with your Windows user name hidden) as a
@@ -282,8 +291,9 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 
 | | Full | Lite |
 |---|:---:|:---:|
-| Reddit story videos (links, comments, parts, batch) | ✓ | ✓ |
-| Four word-synced subtitle styles, 25 voices | ✓ | ✓ |
+| Reddit story videos (story finder, links, comments, parts, batch) | ✓ | ✓ |
+| Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
+| Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
 | Timeline editor, music, sound effects, fonts | ✓ | ✓ |
 | One-click YouTube upload with scheduling | ✓ | ✓ |
@@ -313,6 +323,10 @@ the same file for both editions.
 
 StoryForge Studio checks for new releases at startup. When an update is available, select **Update now** in
 the status bar. Projects, settings and downloaded models are preserved, and your edition stays the same.
+
+**Safe updates.** Before updating, StoryForge Studio keeps a copy of the version that works on your PC. If a new
+version ever fails to start, it automatically goes back to that copy, tells you, and skips that version until
+the next one is released.
 
 **Upgrading from Video Editor AI.** Download the latest
 [StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)
