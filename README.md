@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kadenvbordeaux-dev/storyforge-studio/releases/latest/download/StoryForgeStudio.exe"><img src="https://img.shields.io/badge/Download-StoryForge%20Studio%20for%20Windows-ff8a1f?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe"><img src="https://img.shields.io/badge/Download-StoryForge%20Studio%20for%20Windows-ff8a1f?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kadenvbordeaux-dev/storyforge-studio/releases/latest"><img src="https://img.shields.io/github/v/release/kadenvbordeaux-dev/storyforge-studio?label=latest&color=c2185b" alt="Latest release"></a>
+  <a href="https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest"><img src="https://img.shields.io/github/v/release/kadenvbordeaux-dev/StoryForgeStudio?label=latest&color=c2185b" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/GPU-NVIDIA%20RTX%2C%2010%20GB%2B-76b900" alt="NVIDIA RTX GPU">
   <img src="https://img.shields.io/badge/AI-100%25%20local-ff8a1f" alt="Runs locally">
@@ -45,7 +45,7 @@ ready to upload. Everything runs **on your own PC**: no subscriptions, no cloud 
 
 ## ⬇ Install
 
-1. **[Download StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/storyforge-studio/releases/latest/download/StoryForgeStudio.exe)**.
+1. **[Download StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)**.
 2. Double-click it. It installs everything it needs (Python, FFmpeg, the AI models and the voices) onto your
    drive with the most free space, and adds a **StoryForge Studio** shortcut to your desktop.
 3. That's it. The app **updates itself**: when a new version is out, click **Update now** in the status bar.
