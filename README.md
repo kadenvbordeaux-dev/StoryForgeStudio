@@ -56,6 +56,13 @@ your PC.
   </tr>
 </table>
 
+### Watch: your first Reddit video in one minute
+
+<p align="center">
+  <img src="media/tour.gif" alt="The first-run tour: find a story, pick a voice and subtitles, make the video, schedule more" width="100%">
+  <br><sub>The built-in tour, recorded from the app. <a href="media/tour.mp4">Watch it as a video (MP4)</a>. New users see it the first time they open StoryForge Studio; Help › Take the Tour shows it again.</sub>
+</p>
+
 ---
 
 ## StoryForge Studio (Full edition)
@@ -241,6 +248,11 @@ so no NVIDIA card is needed.
   visibility, or schedule the video to go public at a set time. It connects with your own Google key, a
   one-time, 10-minute setup that the app walks you through.
 - **One part a day.** A story split into parts can be uploaded in one click, scheduled one part per day.
+- **Schedule & queue (autopilot).** Make daily plans ("every day at 6 PM, 2 videos from AITA and Revenge,
+  under 60 seconds") and StoryForge Studio picks the best stories you haven't made, makes them and uploads
+  them, going public right on time. Or queue chosen stories for set dates ("one a day starting Friday"). Videos
+  are made and uploaded about two hours early with YouTube's scheduled publishing, so they go live on time; the
+  app keeps working from the system tray and can start with Windows.
 - **Done notifications.** A Windows notification when a render, a batch of Reddit videos or an upload
   finishes.
 - **Send Problem Report.** One click saves the logs and PC details (with your Windows user name hidden) as a
@@ -308,6 +320,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
 | Timeline editor, music, sound effects, fonts | ✓ | ✓ |
 | One-click YouTube upload with scheduling | ✓ | ✓ |
+| Schedule & queue: daily plans that pick, make and upload videos | ✓ | ✓ |
 | Done notifications and problem reports | ✓ | ✓ |
 | Story → Video (AI-written and illustrated films) | ✓ | — |
 | Manhwa recaps with consistent characters | ✓ | — |
