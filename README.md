@@ -248,9 +248,11 @@ so no NVIDIA card is needed.
   visibility, or schedule the video to go public at a set time. It connects with your own Google key, a
   one-time, 10-minute setup that the app walks you through.
 - **One part a day.** A story split into parts can be uploaded in one click, scheduled one part per day.
-- **Schedule & queue (autopilot).** Make daily plans ("every day at 6 PM, 2 videos from AITA and Revenge,
-  under 60 seconds") and StoryForge Studio picks the best stories you haven't made, makes them and uploads
-  them, going public right on time. Or queue chosen stories for set dates ("one a day starting Friday"). Videos
+- **Schedule & queue (autopilot).** Make daily plans ("every day at 6 PM, 2 stories from AITA and Revenge")
+  and StoryForge Studio picks the best stories you haven't made, makes them and posts them: a **YouTube Short**
+  (vertical, Part 1, Part 2… one a day, tagged #Shorts), a **YouTube video** (widescreen, the whole story), and
+  **TikTok files** (the vertical videos plus a ready-to-paste caption in a "Ready for TikTok" folder, for you to
+  post). YouTube videos go public right on time. Or queue chosen stories for set dates ("one a day starting Friday"). Videos
   are made and uploaded about two hours early with YouTube's scheduled publishing, so they go live on time; the
   app keeps working from the system tray and can start with Windows.
 - **Done notifications.** A Windows notification when a render, a batch of Reddit videos or an upload
