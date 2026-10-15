@@ -190,11 +190,18 @@ so no NVIDIA card is needed.
   manga, cosplay, conventions, gaming), school and life. StoryForge Studio saves their stories on your PC, full
   text included. Topics are filled instantly from the stories you already have, and a scan adds more. Not
   listed? Type your own topic (for example "inheritance") and it searches every story subreddit for it.
-- **Sized to your PC.** It checks your graphics card and free space: strong PCs (10 GB graphics card) keep a
-  library of 5,000+ stories, others about 2,000 so browsing stays quick. Within the library, filter by category
+- **Up to 100,000 stories, no lag.** 🗂️ Stories live in a fast database on your PC: only the stories on screen are
+  loaded, and searching 100,000 stories takes a fraction of a second. Pick a story goal from 2,000 to 100,000
+  (about 700 MB of disk for 100,000). Big goals search each subreddit deeper. Reddit sets the pace, so 100,000
+  stories take a day or more of background scanning. Within the library, filter by category
   (Weddings, In-laws, Dating & marriage, Kids & parenting, Family, Friends, Work & school, Money, Holidays &
   birthdays, Food, Pets, Health), search, sort by most upvoted, newest or length, and hide stories you have
   already made.
+- **✍️ AI story writer (Full).** Have the AI write AITA stories to order: your idea (or let it invent one), the
+  narrator, the other people, the theme, the verdict (in the right, in the wrong, or a grey area that gets people
+  arguing in the comments), the mood, a twist ending, an UPDATE, the length and how many. Also petty and pro revenge,
+  malicious compliance, entitled people, TIFU, relationship and workplace drama, and creepy encounters. Edit them,
+  then make the videos. These stories are fiction, so the video card and credits say "AI-written story".
 - **Make many in a row.** Tick as many stories as you like and click **Make ticked videos now**: StoryForge
   Studio makes every one of them, one after another, with your chosen voice, subtitles and background.
 - **Or paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
@@ -321,6 +328,8 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 | | Full | Lite |
 |---|:---:|:---:|
 | Reddit story videos (story library by genre, your own topics, links, comments, parts, batch) | ✓ | ✓ |
+| Story library of up to 100,000 stories with instant search | ✓ | ✓ |
+| AI story writer: AITA and more, written to order | ✓ | — |
 | Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
 | Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
 | AI story editor: choose the video length, cliffhanger part endings | ✓ | Parts only |
