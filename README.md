@@ -201,7 +201,10 @@ so no NVIDIA card is needed.
   narrator, the other people, the theme, the verdict (in the right, in the wrong, or a grey area that gets people
   arguing in the comments), the mood, a twist ending, an UPDATE, the length and how many. Also petty and pro revenge,
   malicious compliance, entitled people, TIFU, relationship and workplace drama, and creepy encounters. Edit them,
-  then make the videos. These stories are fiction, so the video card and credits say "AI-written story".
+  then make the videos. It writes like a real person: it studies real posts of the same type from your story
+  library (their voice, never their events), avoids the usual AI giveaways, and rewrites anything that still
+  sounds robotic. Pick a writing style: like a real post, messy (typed on a phone), or detailed. These stories
+  are fiction, so the video card and credits say "AI-written story".
 - **Make many in a row.** Tick as many stories as you like and click **Make ticked videos now**: StoryForge
   Studio makes every one of them, one after another, with your chosen voice, subtitles and background.
 - **Or paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
