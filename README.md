@@ -354,10 +354,12 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 ## Installation
 
 1. Download **[StoryForgeStudio.exe](https://github.com/kadenvbordeaux-dev/StoryForgeStudio/releases/latest/download/StoryForgeStudio.exe)**.
-2. Run it. The installer checks your graphics card, recommends **Full** or **Lite**, and asks which one
-   you want.
-3. It picks the drive with the most free space, installs everything for that edition and creates a
-   **StoryForge Studio** desktop shortcut. Launch it from there and create your first project.
+2. Run it. A setup window opens: read and accept the terms of use, then choose **Full** or **Lite** (it
+   recommends the right one for your graphics card) and where to install. It suggests the drive with the most
+   free space; click **Browse** to pick another. Choose whether you want a desktop shortcut and a Start menu
+   entry.
+3. Click **Install** and watch the progress bar fill up. 🟩 No command windows: everything happens in the
+   background. When it's done, click **Start StoryForge Studio** and create your first project.
 
 If the installation is interrupted, run the installer again and it resumes where it stopped. The installer is
 the same file for both editions.
