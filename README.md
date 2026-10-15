@@ -293,7 +293,7 @@ A one-minute story takes well under a minute to make on a typical PC.
 
 ### Upgrading from Lite to Full
 
-If you later get a suitable NVIDIA card, choose **Help › Install the Full AI Studio**. StoryForge Studio closes,
+If you later get a suitable NVIDIA card, choose **Help › Upgrade to Full**. StoryForge Studio closes,
 downloads the rest (about 75 GB) and opens again. Your projects and settings are kept.
 
 ---
