@@ -217,7 +217,10 @@ so no NVIDIA card is needed.
 - **Gameplay background.** Free-to-use Minecraft parkour (Creative Commons, credited automatically) starting
   at a different point every time, or your own gameplay video.
 - **Parts for Shorts.** Long stories are split into Part 1, Part 2… under 60 seconds (or 3 minutes), at the
-  end of a sentence, each ending with "Follow for Part 2".
+  end of a sentence, each ending with "Follow for Part 2". Or choose exactly 2 to 10 parts.
+- **AI story editor (Full).** Choose a video length (about 1, 2, 3, 5 or 10 minutes) and the AI tightens a long
+  story to fit while keeping the same people, events and key lines. It never pads a story out. When you split it into
+  parts, every part ends on a cliffhanger.
 - **Batch mode.** Paste several links (one per line) or several posts separated by `---`, click once, and get
   every video.
 - **9:16 or 16:9.** Vertical for Shorts, TikTok and Reels, or widescreen for YouTube.
@@ -270,7 +273,8 @@ so no NVIDIA card is needed.
 ```mermaid
 flowchart LR
     A[Reddit post<br>or link] --> B[Clean text<br>+ top comments]
-    B --> C[Narration<br>with word timings]
+    B --> B2[AI story editor<br>length + cliffhangers]
+    B2 --> C[Narration<br>with word timings]
     C --> D[Subtitles in<br>your style]
     C --> E[Split into parts<br>if long]
     D --> F[Gameplay + card<br>+ logo]
@@ -319,6 +323,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 | Reddit story videos (story library by genre, your own topics, links, comments, parts, batch) | ✓ | ✓ |
 | Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
 | Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
+| AI story editor: choose the video length, cliffhanger part endings | ✓ | Parts only |
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
 | Timeline editor, music, sound effects, fonts | ✓ | ✓ |
 | One-click YouTube upload with scheduling | ✓ | ✓ |
