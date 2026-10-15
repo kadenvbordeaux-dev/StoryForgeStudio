@@ -176,11 +176,13 @@ so no NVIDIA card is needed.
 ### Features
 
 #### Reddit stories
-- **Story library by genre.** Tick the genres you want (AITA, Revenge, Malicious compliance, Work stories,
-  Entitled people, Confessions, Funny fails, Relationship drama, Family drama, Creepy true stories, Scary
-  fiction) and StoryForge Studio saves their stories on your PC, full text included. Not listed? Type your own
-  topic (for example "inheritance" or "cheating") and it searches every story subreddit and adds the best
-  stories.
+- **116 genres and topics.** Tick what you want, in 12 sections: who's in the wrong (AITA, plus AITA weddings,
+  in-laws, money, roommates…), revenge and justice (petty, pro and nuclear revenge, malicious compliance, Karens,
+  HOA horror), work (retail, tech support, servers, hotels), family, relationships, confessions, funny, scary
+  and mystery (creepy encounters, paranormal, scary fiction), fiction, gaming and anime (stories about anime,
+  manga, cosplay, conventions, gaming), school and life. StoryForge Studio saves their stories on your PC, full
+  text included. Topics are filled instantly from the stories you already have, and a scan adds more. Not
+  listed? Type your own topic (for example "inheritance") and it searches every story subreddit for it.
 - **Sized to your PC.** It checks your graphics card and free space: strong PCs (10 GB graphics card) keep a
   library of 5,000+ stories, others about 2,000 so browsing stays quick. Within the library, filter by category
   (Weddings, In-laws, Dating & marriage, Kids & parenting, Family, Friends, Work & school, Money, Holidays &
