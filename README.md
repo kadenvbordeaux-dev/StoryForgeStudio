@@ -176,11 +176,16 @@ so no NVIDIA card is needed.
 ### Features
 
 #### Reddit stories
-- **Story library.** Scan a whole story subreddit (AITA, TIFU, pettyrevenge, MaliciousCompliance and more)
-  once and keep well over a thousand stories on your PC, with their full text. They are sorted into
-  categories (Weddings, In-laws, Dating & marriage, Kids & parenting, Family, Friends, Roommates & neighbours,
-  Work & school, Money, Holidays & birthdays, Food, Pets, Health), and you can search, sort by most upvoted,
-  newest or length, and hide stories you have already made. Refresh adds new posts in about a minute.
+- **Story library by genre.** Tick the genres you want (AITA, Revenge, Malicious compliance, Work stories,
+  Entitled people, Confessions, Funny fails, Relationship drama, Family drama, Creepy true stories, Scary
+  fiction) and StoryForge Studio saves their stories on your PC, full text included. Not listed? Type your own
+  topic (for example "inheritance" or "cheating") and it searches every story subreddit and adds the best
+  stories.
+- **Sized to your PC.** It checks your graphics card and free space: strong PCs (10 GB graphics card) keep a
+  library of 5,000+ stories, others about 2,000 so browsing stays quick. Within the library, filter by category
+  (Weddings, In-laws, Dating & marriage, Kids & parenting, Family, Friends, Work & school, Money, Holidays &
+  birthdays, Food, Pets, Health), search, sort by most upvoted, newest or length, and hide stories you have
+  already made.
 - **Make many in a row.** Tick as many stories as you like and click **Make ticked videos now**: StoryForge
   Studio makes every one of them, one after another, with your chosen voice, subtitles and background.
 - **Or paste a post or a link.** Copy a Reddit post from your browser, or paste just its link. Page clutter
@@ -295,7 +300,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 
 | | Full | Lite |
 |---|:---:|:---:|
-| Reddit story videos (story library with categories, links, comments, parts, batch) | ✓ | ✓ |
+| Reddit story videos (story library by genre, your own topics, links, comments, parts, batch) | ✓ | ✓ |
 | Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
 | Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
