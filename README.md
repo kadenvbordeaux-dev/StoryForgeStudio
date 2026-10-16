@@ -371,6 +371,7 @@ the same file for both editions.
 - **Your YouTube sign-in is encrypted** with Windows' own protection, so a copy of the file is useless on any
   other account or PC.
 - **Nothing is open to your network:** the AI engines run only on your PC (127.0.0.1).
+- **Terms can't be skipped:** acceptance is stored encrypted for your Windows account.
 - **One copy at a time:** opening StoryForge Studio again just brings the open window to the front.
 
 ### Updating
