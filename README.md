@@ -364,6 +364,17 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 If the installation is interrupted, run the installer again and it resumes where it stopped. The installer is
 the same file for both editions.
 
+### AI Video (Full) 🎭
+
+Create characters once (a name, a look, a personality and a voice), then make realistic videos of them:
+
+- **Talking characters:** type what they say (or click **Write it with AI** and they write it in their own
+  personality). Their voice is recorded, and the lips, face, head and body move with it.
+- **Scenes:** describe what happens and the character acts it out, or leave the character out and make any scene.
+- **The same face every time:** each character's realistic look is made once and every video starts from it.
+- **Your brand on every video:** the StoryForge Studio logo glides around the edges of the frame.
+- Talking needs an optional download (about 25 GB) from inside the app.
+
 ### Security 🔒
 
 - **Verified updates:** every update is checked against its published SHA-256 fingerprint before it runs. A
