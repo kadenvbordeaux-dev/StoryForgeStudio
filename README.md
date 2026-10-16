@@ -364,6 +364,15 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 If the installation is interrupted, run the installer again and it resumes where it stopped. The installer is
 the same file for both editions.
 
+### Security 🔒
+
+- **Verified updates:** every update is checked against its published SHA-256 fingerprint before it runs. A
+  download that doesn't match exactly is deleted.
+- **Your YouTube sign-in is encrypted** with Windows' own protection, so a copy of the file is useless on any
+  other account or PC.
+- **Nothing is open to your network:** the AI engines run only on your PC (127.0.0.1).
+- **One copy at a time:** opening StoryForge Studio again just brings the open window to the front.
+
 ### Updating
 
 StoryForge Studio checks for new releases at startup. When an update is available, select **Update now** in
