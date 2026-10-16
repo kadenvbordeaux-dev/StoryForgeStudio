@@ -74,7 +74,7 @@ unedited output from StoryForge Studio, made on a single RTX 3080 (about 8 minut
   </tr>
 </table>
 
-<p align="center"><sub>The StoryForge Studio logo glides around the edges of every AI video. <a href="media/ai-video.mp4">Watch all three in full quality (MP4)</a>. Maya and Leo are original characters made in the app; no real people.</sub></p>
+<p align="center"><sub>The StoryForge Studio logo glides across every AI video (top left, middle right, bottom left). <a href="media/ai-video.mp4">Watch all three in full quality (MP4)</a>. Maya and Leo are original characters made in the app; no real people.</sub></p>
 
 [See everything AI Video can do ↓](#ai-video-full-)
 
@@ -406,14 +406,14 @@ Create characters once (a name, a look, a personality and a voice), then make re
   personality). Their voice is recorded, and the lips, face, head and body move with it.
 - **Scenes:** describe what happens and the character acts it out, or leave the character out and make any scene.
 - **The same face every time:** each character's realistic look is made once and every video starts from it.
-- **Your brand on every video:** the StoryForge Studio logo glides around the edges of the frame.
+- **Your brand on every video:** the StoryForge Studio logo glides from the top left to the middle right to the bottom left, and round again.
 - **2,300+ scene ideas** in 23 categories (city, nature, food, sports, drama, horror, fantasy, sci-fi,
   animals, landscapes, products...), each written the way the video model follows best.
 - **Camera and light:** tracking, push-in, orbit, drone, handheld, close-up; golden hour, neon night, rain,
   candlelight, studio and more.
 - **Scenes written out by AI:** your short idea becomes a detailed prompt (action, place, camera, light) so
   the result matches what you meant.
-- **Up to 15 seconds** per video, made in pieces that continue from each other.
+- **Up to 1 minute** per video (3, 5, 8, 10, 15, 20, 30 or 45 seconds, or a full minute), made in 5-second pieces that continue from each other.
 - **AI Director (optional):** describe an idea, answer a few questions, read and change the plan, and it makes
   the characters and every shot, then joins them into one video.
 - Talking needs an optional download (about 25 GB) from inside the app, with a progress bar and Pause.
