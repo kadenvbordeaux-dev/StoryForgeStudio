@@ -192,7 +192,7 @@ flowchart LR
 | Ollama + AI writing and editing models (Mistral Small 24B, Gemma 3 12B, Qwen 2.5 7B, Qwen 2.5-VL 7B) | ~33 GB | Screenplays, narration, the AI editor, watching footage |
 | AI video engine (ComfyUI + PyTorch CUDA) | ~4 GB | Drawing pictures and making video clips |
 | AI image and video models (Animagine XL, Wan 2.2, LTX-Video, IP-Adapter) | ~35 GB | Illustrations, animation, consistent characters |
-| Voices (Kokoro, 25 voices) and speech recognition (Whisper) | ~1 GB | Narration, word-synced subtitles, transcription |
+| Voices (Kokoro, 32 voices) and speech recognition (Whisper) | ~1 GB | Narration, word-synced subtitles, transcription |
 | Music, sound effects, fonts and the asset library | ~0.5 GB | Editing |
 | Minecraft parkour background | 2.8 GB | Reddit stories (downloaded on first use) |
 
@@ -240,7 +240,7 @@ so no NVIDIA card is needed.
   (votes, usernames, "Share", "Reply") is removed automatically.
 - **Top comments.** From a link, the post's top one to three comments can be read at the end. This works well
   for AITA verdicts.
-- **Your choice of voice.** 25 natural narrator voices, each with a ▶ preview button. Reddit shorthand is read
+- **Your choice of voice.** 32 natural narrator voices (American, British, and Latina / Latino), each with a ▶ preview button. Reddit shorthand is read
   properly: "AITA" becomes "Am I the A-hole" and "(24F)" becomes "24 female".
 - **Pronunciations.** Teach the narrator tricky names and slang ("Siobhan" → "Shiv awn"); the subtitles still
   show the word as written.
@@ -343,7 +343,7 @@ A one-minute story takes well under a minute to make on a typical PC.
 | Component | Size | Used for |
 |---|---|---|
 | Python, FFmpeg and the app | ~2 GB | The editor, rendering and export |
-| Voice engine (Kokoro on the processor) and 25 voices | ~1.3 GB | Narration with word timings |
+| Voice engine (Kokoro on the processor) and 32 voices | ~1.3 GB | Narration with word timings |
 | Speech recognition (Whisper) | ~0.5 GB | Captions |
 | Music, sound effects, fonts and the asset library | ~0.5 GB | Editing |
 | Minecraft parkour background | 2.8 GB | Reddit stories (downloaded on first use) |
@@ -362,7 +362,7 @@ downloads the rest (about 75 GB) and opens again. Your projects and settings are
 | Reddit story videos (story library by genre, your own topics, links, comments, parts, batch) | ✓ | ✓ |
 | Story library of up to 100,000 stories with instant search | ✓ | ✓ |
 | AI story writer: AITA and more, written to order | ✓ | — |
-| Four word-synced subtitle styles, 25 voices with preview, pronunciations | ✓ | ✓ |
+| Four word-synced subtitle styles, 32 voices with preview, pronunciations | ✓ | ✓ |
 | Swear-word bleeping for advertiser-friendly videos | ✓ | ✓ |
 | AI story editor: choose the video length, cliffhanger part endings | ✓ | Parts only |
 | Brand kit (highlight colour, intro, outro) | ✓ | ✓ |
