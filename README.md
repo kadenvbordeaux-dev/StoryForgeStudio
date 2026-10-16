@@ -56,6 +56,28 @@ your PC.
   </tr>
 </table>
 
+### New: AI Video 🎬
+
+Describe a scene and get a realistic video, with your own characters or without any. These clips are real,
+unedited output from StoryForge Studio, made on a single RTX 3080 (about 8 minutes each):
+
+<table>
+  <tr>
+    <td width="27%" align="center"><img src="media/ai-video-maya.gif" alt="AI video: Maya walking through a night market"></td>
+    <td width="27%" align="center"><img src="media/ai-video-leo.gif" alt="AI video: Leo sipping coffee by a window at golden hour"></td>
+    <td width="46%" align="center"><img src="media/ai-video-scene.gif" alt="AI video: drone shot of waves on a rocky coast at sunset"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Maya</b> &middot; "walking through a busy night market" &middot; Tracking, Neon night</sub></td>
+    <td align="center"><sub><b>Leo</b> &middot; "taking a sip of coffee" &middot; Slow push-in, Golden hour</sub></td>
+    <td align="center"><sub><b>No character</b> &middot; "waves crashing on a rocky coast" &middot; Drone, Sunset</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>The StoryForge Studio logo glides around the edges of every AI video. <a href="media/ai-video.mp4">Watch all three in full quality (MP4)</a>. Maya and Leo are original characters made in the app; no real people.</sub></p>
+
+[See everything AI Video can do ↓](#ai-video-full-)
+
 ### Watch: your first Reddit video in one minute
 
 <p align="center">
@@ -105,6 +127,13 @@ write the story, draw every scene, voice it, and cut it together. It includes ev
 #### Editing
 - **AI editor.** Describe an edit in plain language ("make a 45-second Short with captions") and it is
   applied as a single undoable step. It watches and listens to your footage to understand it.
+- **24 professional editing styles.** Retention, Vlog, Storytime, Podcast clip, Documentary, Cinematic,
+  Trailer, Horror, Music video, Commercial, Wedding, Travel, Sports and more. Each one sets the hook, pacing,
+  text, music, color grade and sound the way that kind of editor works, and extra versions try its closest
+  styles.
+- **Prompt library: 3,700+ ready-made edits.** Pick by kind of footage (gaming, podcast, vlog, wedding,
+  cooking...), goal (Short, highlight reel, trailer, exact length) and style, change it if you like, or type
+  your own.
 - **Smart tools.** Beat-synced cuts, subject-tracking reframe from 16:9 to 9:16, color matching and
   automatic music ducking.
 - **Full timeline editor.** Everything listed under Lite below.
@@ -366,6 +395,11 @@ the same file for both editions.
 
 ### AI Video (Full) 🎭
 
+<p align="center">
+  <img src="media/ai-video-tab.jpg" alt="The AI Video tab: character, scene, camera, light and the finished video" width="100%">
+  <br><sub><b>The AI Video tab.</b> Pick a character, describe the scene (or choose one of 2,300+ ideas), set the camera and light, and click Make AI Video. The AI first writes your scene out in detail for the video model.</sub>
+</p>
+
 Create characters once (a name, a look, a personality and a voice), then make realistic videos of them:
 
 - **Talking characters:** type what they say (or click **Write it with AI** and they write it in their own
@@ -373,7 +407,35 @@ Create characters once (a name, a look, a personality and a voice), then make re
 - **Scenes:** describe what happens and the character acts it out, or leave the character out and make any scene.
 - **The same face every time:** each character's realistic look is made once and every video starts from it.
 - **Your brand on every video:** the StoryForge Studio logo glides around the edges of the frame.
-- Talking needs an optional download (about 25 GB) from inside the app.
+- **2,300+ scene ideas** in 23 categories (city, nature, food, sports, drama, horror, fantasy, sci-fi,
+  animals, landscapes, products...), each written the way the video model follows best.
+- **Camera and light:** tracking, push-in, orbit, drone, handheld, close-up; golden hour, neon night, rain,
+  candlelight, studio and more.
+- **Scenes written out by AI:** your short idea becomes a detailed prompt (action, place, camera, light) so
+  the result matches what you meant.
+- **Up to 15 seconds** per video, made in pieces that continue from each other.
+- **AI Director (optional):** describe an idea, answer a few questions, read and change the plan, and it makes
+  the characters and every shot, then joins them into one video.
+- Talking needs an optional download (about 25 GB) from inside the app, with a progress bar and Pause.
+
+<table>
+  <tr>
+    <td width="50%"><img src="media/ai-characters.jpg" alt="Two characters' looks: Maya and Leo"></td>
+    <td width="50%"><img src="media/director.jpg" alt="The AI Director's plan for a short video"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Characters.</b> Each look is made once, and every video of them starts from it.</sub></td>
+    <td align="center"><sub><b>AI Director.</b> A real plan it wrote for Maya and Leo. Type a change, or click Make it.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="media/scene-ideas.jpg" alt="Scene ideas: 2,345 ready-made scenes by category"></td>
+    <td width="50%"><img src="media/editor-prompts.jpg" alt="The AI editor's prompt library"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Scene ideas.</b> Search or browse, change it, use it.</sub></td>
+    <td align="center"><sub><b>AI editor prompt library.</b> 3,769 edits by footage, goal and style.</sub></td>
+  </tr>
+</table>
 
 ### Security 🔒
 
